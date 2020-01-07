@@ -1,5 +1,5 @@
 # Input your Jenkins domain
-domain=https://
+domain=https://<your Jenkins domain>
 # Input directory with Jenkins jobs
 job_dir=/mcpaint/jenkins_home/jobs
 
